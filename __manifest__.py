@@ -24,7 +24,7 @@
 
     # always loaded
     'data': [
-        #'views/estate_menus.xml',
+        'views/estate_menus.xml',
         'views/estate_property_views.xml',
         'security/ir.model.access.csv',
         'views/views.xml',
